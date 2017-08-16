@@ -3301,13 +3301,14 @@
 /* Footer */
 
 	#footer {
-		background-color: #fafafa;
+		background-color: #333333;
+		color: #fff;
 		border-top: solid 2px rgba(144, 144, 144, 0.25);
 		color: #777;
 	}
 
 		#footer .copyright {
-			color: #bbb;
+			color: #fff;
 			font-size: 0.9em;
 			padding: 4em 2em;
 			text-align: center;
